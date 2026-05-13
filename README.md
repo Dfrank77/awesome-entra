@@ -206,7 +206,6 @@ These posts will make your head hurt, but in a good way.
 
 ## Twitter
 
-- [Alex Simons (@Alex_A_Simons)](https://twitter.com/Alex_A_Simons), Microsoft
 - [Ali Tajran (@alitajran)](https://twitter.com/alitajran)
 - [Andy Robbins (@_wald0)](https://twitter.com/_wald0), BloodHound
 - [Claus Jespersen](https://twitter.com/cjaspersen), Microsoft
@@ -233,6 +232,7 @@ These posts will make your head hurt, but in a good way.
 - [Matt Zorich (@reprise_99)](https://twitter.com/reprise_99), Microsoft
 - [Matthew Levy (@mattchatt42)](https://twitter.com/mattchatt42), MVP
 - [Merill Fernando (@merill)](https://twitter.com/merill), Microsoft
+- [Nathan McNulty (@nathanmcnulty)](https://x.com/NathanMcNulty), MVP
 - [Nick Ludwig (@welcome2theDL)](https://twitter.com/welcome2theDL), Microsoft
 - [Olaf Hartong (@olafhartong), MVP](https://twitter.com/olafhartong), MVP
 - [Pim Jacobs (@pimjacobs89), MVP](https://twitter.com/pimjacobs89), MVP
@@ -252,16 +252,13 @@ These posts will make your head hurt, but in a good way.
 
 ## LinkedIn
 
-- [Bailey Bercik](https://www.linkedin.com/in/baileybercik/), Microsoft
 - [Damien Bowden](https://www.linkedin.com/in/damien-bowden-42a450176/), MVP
 - [Jan Bakker](https://www.linkedin.com/in/jan-bakker/), MVP
 - [Chetan Desai](https://www.linkedin.com/in/cmmdesai/), Microsoft
 - [Christina Morillo](https://www.linkedin.com/in/christinamorillo/), Ex-Microsoft
-- [Den D.](https://www.linkedin.com/in/dendeli/), Microsoft
 - [Eric Mannon](https://www.linkedin.com/in/emannon/), MVP
 - [Eric Woodruff](https://www.linkedin.com/in/ericonidentity/), Semperis
 - [Katie Knowles](https://www.linkedin.com/in/kaknowles/), DataDog
-- [Mark Morowczynski](https://www.linkedin.com/in/markmorow/), Microsoft
 - [Mark Wahl](https://www.linkedin.com/in/mawahl/), Microsoft
 - [Tee Earls](https://www.linkedin.com/in/teeearls/), Microsoft
 - [Daniel Krzyczkowski](https://www.linkedin.com/in/daniel-krzyczkowski/), MVP
@@ -270,7 +267,7 @@ These posts will make your head hurt, but in a good way.
 
 ### Microsoft Blogs
 
-- [Microsoft Entra Blog - aka.ms/identityblog](https://aka.ms/identityblog)
+- [Microsoft Entra Blog - aka.ms/entrablog](https://aka.ms/entrablog)
 - [Microsoft Entra Developer Blog](https://devblogs.microsoft.com/identity/)
 - [Microosft Security Blog](https://www.microsoft.com/en-us/security/blog/)
 
